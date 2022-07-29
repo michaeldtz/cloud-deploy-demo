@@ -36,7 +36,7 @@ description: staging cluster
 gke:
   cluster: projects/midietz-demo-clouddeploy/locations/us-central1/clusters/stagingcluster
 ---
-
+ 
 apiVersion: deploy.cloud.google.com/v1beta1
 kind: Target
 metadata:
